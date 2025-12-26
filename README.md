@@ -44,8 +44,7 @@ You will:
 
 ## The code you should use (clean, correct, matches the steps)
 
-> Note: Your uploaded code has the right ideas, but your `attempts` **while loop is indented inside the username for-loop**, which causes it to run 5 times (once for each username).  
-> This version places Step 4 **separately**, which is what the job aid describes. (Your original content is shown in your upload.)
+
 
 ```python
 # Step 3: List + for loop + condition
