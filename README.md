@@ -86,7 +86,7 @@ for login_time in login_times:
 
 ---
 
-## Explain it like you’re 5 👶 (super simple)
+## Explanation
 
 ### Big idea
 Imagine a **door** that decides what to say when people try to enter.
@@ -169,10 +169,7 @@ Imagine a **door** that decides what to say when people try to enter.
 
 ---
 
-## Your original code (for reference)
-This is what you uploaded (shown here so you can compare). fileciteturn2file0L1-L31
+## Screenshot of my work
 
----
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/cf4b82f4-0a49-4058-8712-17c2abeea28f" />
 
-## Author
-David Macias
