@@ -42,7 +42,7 @@ You will:
 
 ---
 
-## The code you should use (clean, correct, matches the steps)
+## The code for this:
 
 
 
